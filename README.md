@@ -14,5 +14,5 @@
 - 🌱 I’m currently learning Forinet products, Cisco CCNA.
 - ⚙️ I use daily: `python`, `bash`.
 - 🔭 I’m professionally working on Collective Neutrino Oscillations in Type 2a Supernova.
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 💬 Ask me about: Unacademic philosophy, popular and deep physics, Avantgarde Music, Home Labs.
+- ⚡️ Fun fact: I'm a huge fan of nature.
+- 💬 Ask me about: Unacademic Philosophy, Popular and Deep Physics, Avantgarde Music, Home Labs.
