@@ -7,7 +7,7 @@
 ---
 
 ##### NOW
-- ✨ I’m eager to transition as Network Engineer.
+- ✨ I’m eager to transition in becoming a Network Engineer.
 - 📫 Reach me: [bulmust at gmail.com](emailto:bulmust@gmail.com).
 
 ##### BIO
