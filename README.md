@@ -1,6 +1,5 @@
 <h3 align="center">Hi there 👋, I'm research assistant at MSGSÜ Physics Department in İstanbul, Turkey</h3>
 <p align="center">•</p>
-<p align="center">•</p>
 <p align="center"><a href="https://github.com/bulmust" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/taygun-bulmu%C5%9F-9932a658/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
