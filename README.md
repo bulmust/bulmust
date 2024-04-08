@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, I'm freelance DevOps engineer in <a href="https://www.bordatech.com/">Bordatech Company</a> and full-time research assistant at MSGSÜ Physics Department.</h3>
+<h3 align="center">Hi there 👋, I'm freelance DevOps engineer at <a href="https://www.bordatech.com/">Bordatech Company</a> and full-time research assistant at MSGSÜ Physics Department.</h3>
 <p align="center">•</p>
 <p align="center"> <a href="https://www.linkedin.com/in/bulmust/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
