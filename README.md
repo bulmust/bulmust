@@ -1,19 +1,17 @@
-<h3 align="center">Hi there 👋, I'm research assistant at MSGSÜ Physics Department in İstanbul, Turkey</h3>
-<h4 align="center">Also, I provide consultancy services to  <a href="https://www.bordatech.com/">Borda Company</a> on devops/monıtoring.</h4>
+<h3 align="center">Hi there 👋, I'm freelance DevOps engineer in <a href="https://www.bordatech.com/">Bordatech Company</a> and full-time research assistant at MSGSÜ Physics Department.</h3>
 <p align="center">•</p>
-<p align="center"> <a href="https://www.linkedin.com/in/taygun-bulmu%C5%9F-9932a658/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center"> <a href="https://www.linkedin.com/in/bulmust/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 #### NOW
-<!-- - ✨ I’m eager to transition in becoming a -->
-- 📫 Reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bulmust@gmail.com)](mailto:bulmust@gmail.com)
+- 📫 Reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bulmust@gmail.com)](mailto:bulmust2@gmail.com)
 #### BIO
-<!-- - - 🌱 I’m currently learning Forinet products, Cisco CCNA. -->
-- ⚙️ I use daily: `grafana`, `prometheus`, `python`.
-- 🔭 I’m professionally working on both collective neutrino oscillations in Type 2a supernova and kubernetes observability.
-- 🚣 Rowing is my new passion.
-- 💬 Ask me about: Unacademic philosophy, popular and deep physics, avantgarde music, home labs.
+- ⚙️ I use daily: `helm`, k8s manifest yamls, `grafana`, `prometheus`, `argocd` , `python`, `Azure devops` and more.
+- 💡 Kubernetes, microservices and new tools/apps are my passion.
+- 🔭 My previous academic working was on both collective neutrino oscillations in Type 2a supernova.
+- 🚣 I would like to improve my rowing skills.
+- 💬 Ask me about: Rowing, home servers, old video games and synthwave music.
 
 ---
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
